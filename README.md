@@ -26,7 +26,9 @@ Run the tests `npm test`
 
 When your new project is ready for deployment, add a new Heroku application with `heroku create`. This will make a new git remote called "heroku" and you can then `npm run deploy` which will push to this remote's master branch.
 
-**This is your boilerplate
-You are free to change the contents of this project however you like! If you want to add or remove the semi-colons, that's your choice, if you want to use 4 spaces for tab indentation instead of 2, go for it!
 
-This project is to help you get started with new projects, now you will have some scripts, dependencies, middleware, testing set up and configuration within a flash!**
+
+**This is your boilerplate**
+*You are free to change the contents of this project however you like! If you want to add or remove the semi-colons, that's your choice, if you want to use 4 spaces for tab indentation instead of 2, go for it!*
+
+*This project is to help you get started with new projects, now you will have some scripts, dependencies, middleware, testing set up and configuration within a flash!*
